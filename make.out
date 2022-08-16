@@ -1,0 +1,4 @@
+fileman.c: In function ‘fileman_read’:
+fileman.c:64:7: warning: unused variable ‘remove_me’ [-Wunused-variable]
+   int remove_me; // only here to fail code quality check
+       ^~~~~~~~~
